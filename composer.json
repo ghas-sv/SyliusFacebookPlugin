@@ -25,7 +25,7 @@
         "setono/consent-bundle": "^0.1",
         "setono/consent-contracts": "^0.1",
         "setono/symfony-main-request-trait": "^1.0",
-        "sylius/resource-bundle": "^1.6",
+        "sylius/resource-bundle": "^1.8",
         "symfony/config": "^4.4 || ^5.4",
         "symfony/console": "^4.4 || ^5.4",
         "symfony/dependency-injection": "^4.4 || ^5.4",
